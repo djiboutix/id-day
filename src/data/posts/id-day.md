@@ -1,6 +1,6 @@
 ---
 pubDate: "Aug 09 2022"
-title: "Useful tools and resources to create a professional website"
+title: "Journée Internationale de l'Identité 2022"
 description: "Nibh senectus lacinia volutpat nostra taciti ac posuere, dictum ultricies dictumst luctus in vehicula, mus molestie venenatis penatibus ridiculus elementum. Phasellus sollicitudin dignissim parturient."
 image: "~/assets/images/tools.jpg"
 tags: [front-end, tools, resources]

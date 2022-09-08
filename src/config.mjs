@@ -1,11 +1,11 @@
 export const SITE = {
-  name: "AstroWind",
+  name: "Identité Numérique Djibouti",
 
-  origin: "https://astrowind.vercel.app",
+  origin: "https://id-djibouti.netlify.app",
   basePathname: "/",
 
-  title: "AstroWind — Your website with Astro + Tailwind CSS",
-  description: "🚀 AstroWind is a free and ready to start template to make your website using Astro and Tailwind CSS.",
+  title: "ID — Identité Numérique Djibouti",
+  description: "Djibouti vient de lancer officiellement la carte d'identité numérique qui sera désormais obligatoire pour tous les Djiboutiens.",
 
   googleAnalyticsId: false, // or "G-XXXXXXXXXX",
   googleSiteVerificationId: "orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M",
