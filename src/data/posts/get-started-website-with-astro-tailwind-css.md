@@ -22,7 +22,7 @@ Le président a eu une visite guidée des installations, dont notamment les guic
 
 Cette carte d’identité contient tous les éléments qui permettent une identification irréprochable d’un citoyen de façon sécurisée.
 
-![](\~/assets/images/1404b.png)
+![](/images/1404b.png)
 
 Le président s’est s’acquiert du fonctionnement et les différents processus d’émission de cette nouvelle carte d’identité biométrique.
 
@@ -32,4 +32,4 @@ Ce programme initié par la volonté du chef d'Etat pour mettre notre pays en ph
 
 Pour ce faire, le ministère de l'intérieur à travers la Direction Générale de la Population a mis en place cinq guichets intégrés destiné pour le changement de ces titres au sein de RAS-DIKA et dans les quatres arrondissements 2-3-4 et 5 dans la ville de Djibouti. Pour les régions de l'intérieure, l'enrôlement débutera à partir du 15 mai 2022.
 
-![](\~/assets/images/1404c.png)
+![](/images/1404c.png)
