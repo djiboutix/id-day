@@ -1,59 +1,126 @@
 ---
-pubDate: "Aug 10 2022"
-title: "How to customize AstroWind template to suit your branding"
-description: "Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat"
-image: "~/assets/images/colors.jpg"
-tags: [astro, tailwind css, theme]
+pubDate: Aug 10 2022
+title: Il est important de se doter de systèmes d’identification numériques fiables
+  et inclusifs
+description: Le  Ministre de l’intérieur, M. Saïd Nouh Hassan a accordé hier dimanche
+  17 Avril dans son cabinet, un entretien exclusif aux medias nationaux, dans le cadre
+  du lancement du système Numérique National Identification (NNI) et du registre National
+  des Personnes physiques (RNPP).
+image: "~/assets/images/le-ministre-de-linterieur-m-said-nouh-hassan-696x464.jpg"
+tags:
+- astro
+- tailwind css
+- theme
+excerpt: Le  Ministre de l’intérieur, M. Saïd Nouh Hassan a accordé hier dimanche
+  17 Avril dans son cabinet, un entretien exclusif aux medias nationaux, dans le cadre
+  du lancement du système Numérique National Identification (NNI) et du registre National
+  des Personnes physiques (RNPP).
+
 ---
+**Monsieur le ministre, notre pays a lancé la mise en place de deux projets novateurs à savoir le Registre National des Personnes physiques (RNPP) et le Numéro National d’identification (NNI) qui a pour mission d’octroyer aux Djiboutiens un processus sécurisé et informatisé des données capitales d’information les concernant notamment en matière d’état civil, et autres actes administratifs importants. Pouvez-vous nous expliquer davantage en quoi cela consiste ?**
 
-## Congue justo vulputate nascetur convallis varius orci fringilla nulla pharetr
+Tout d’abord, je remercie les medias nationaux pour l’intérêt qu’ils portent à ce sujet d’une importance capitale pour notre pays. Mais avant de répondre à votre question, laissez-moi vous dire que les opportunités offertes par le numérique sont grandes et nous devons en tirer pleinement les profits. Elles permettent d’augmenter nos revenus et d’améliorer la qualité de vie de notre population.
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit, augue malesuada natoque in ad erat aliquam facilisi, lacus rhoncus mattis nostra et a. Mauris malesuada rutrum dis libero egestas mus vulputate, fermentum ad morbi phasellus faucibus tellus leo urna, blandit ullamcorper diam imperdiet dictumst litora. Fringilla eros malesuada lobortis mi odio metus leo, blandit imperdiet augue fames aliquam ultricies tortor massa, duis magnis hendrerit id magna sociosqu. Aptent mi imperdiet id sapien suscipit ut netus turpis, lacinia ac porttitor potenti dui taciti at egestas, fermentum neque nascetur sodales tortor nunc congue. 
+Enjeu de développement capital, l’identification numérique fait l’objet de la cible 9 du 16ème Objectif de Développement Durable (ODD) adopté par les Nations Unies, qui prévoit de garantir à tous une identité juridique, notamment grâce à l’enregistrement des naissances à l’horizon 2030.
 
-Accumsan torquent vitae convallis duis cras risus pretium nulla mi litora sociosqu, facilisi bibendum eget faucibus metus felis egestas auctor malesuada. Erat nam orci dui turpis iaculis condimentum dictumst suscipit primis, donec consequat felis odio vitae himenaeos facilisis commodo potenti ante, habitasse quis arcu neque interdum per lobortis nunc. Ultricies lobortis ullamcorper sagittis et sollicitudin sociis sed dignissim posuere, nisi pharetra erat varius id aenean lacinia commodo morbi primis, ornare diam proin nunc volutpat nec dui egestas. 
+C’est pourquoi, il est important de se doter de systèmes d’identification numériques fiables et inclusifs qui renforcent la transparence et l’efficacité de la gouvernance ainsi que la prestation des services publics.
 
-## Mauris velit laoreet vitae cursus augue
+Pour revenir à votre question, la République de Djibouti souhaite, depuis plusieurs années, se doter d’un système d’enregistrement informatisé, centralisé et biométrique des personnes physiques présentes sur tout le territoire national, qu’elles soient natives ou étrangères.
 
-- Massa egestas consequat nisl id volutpat, varius neque aenean.
+De ce fait, la loi N°39/AN/19/8ème L portant création du Registre National des Personnes physiques (RNPP) et du Numéro National d’Identification (NNI) a été promulguée le 21 Janvier 2019.
 
-- Venenatis tincidunt eros pretium viverra lacinia convallis, turpis orci condimentum fusce.
+Ce registre national permettra également la constitution d’un fichier central et unique de données biographiques et biométriques des individus et l’attribution d’un numéro national d’identification (NNI) à toute personne de nationalité Djiboutienne et étrangère résidente sur le territoire national.
 
-- Pellentesque in aliquet nisi gravida netus, commodo aptent volutpat.
+Le NNI est un procédé qui permet d’identifier la personne physique au moyen d’un code unique et univoque qui intègre son rattachement à un espace géographique.
 
-- Nisi rutrum eros euismod, parturient ullamcorper mattis a, dapibus vestibulum.
+Il est à noter que la mise en œuvre et la gestion de cet important programme est confié à la Direction Générale de la Population et de la Famille. Et pour réaliser cette base de données, notre pays a fait appel à Dermalog, une société allemande réputée sur le plan mondial dans ce domaine à la pointe. Egalement, l’Agence Nationale des Systèmes d’informations est chargée du suivi technique de ce projet.
 
-Senectus fermentum tristique egestas bibendum per dictumst purus pharetra cras dictum pulvinar, vitae nec eros montes dis quis nullam duis netus litora, feugiat cubilia mollis porttitor velit ligula metus ante risus eu. 
+**Pouvez-vous nous dire quels sont les titres sécurisés impactés par le RNPP ?**
 
-Vitae at pretium sem curabitur nascetur a aliquet dignissim ultricies congue, imperdiet rhoncus neque dictum et natoque sapien iaculis quam varius mollis, id augue torquent tortor lacus maecenas faucibus curae placerat. Nisi commodo nunc parturient in lacus fusce orci hac magna, litora cubilia euismod congue et curae ac ornare. Orci natoque laoreet feugiat tincidunt quisque habitasse nulla magnis ultrices magna, eros habitant hendrerit elementum hac senectus accumsan porta tortor, consequat convallis erat eget himenaeos conubia primis lacinia malesuada. 
+Tous les documents ou titres sécurisés produits et délivrés en république de Djibouti aux djiboutiens ainsi qu’aux étrangers vivants sur le territoire national. Néanmoins il faut comprendre que le changement de ces titres se fera d’une manière progressive et de façon à donner à nos concitoyens de s’accommoder avec les nouvelles mesures et surtout s’approprier les opportunités liées au RNPP et au NNI
 
-Felis ad nisi taciti cubilia dis nulla potenti, tincidunt nascetur integer enim est at congue, aliquet sed lectus donec nam quam. Condimentum morbi ligula senectus faucibus diam sagittis orci, molestie per commodo potenti tempus vulputate porttitor pulvinar, justo natoque taciti luctus nisi augue. Ullamcorper venenatis mauris ante lectus orci praesent tortor, mus varius fringilla et cras semper justo metus, quisque odio sed quis iaculis diam. 
+Actuellement sont disponibles les documents tels que :
 
-Mus dictum ante cum lectus dapibus sed arcu accumsan facilisi convallis potenti, tincidunt duis habitant diam magna sollicitudin orci pulvinar penatibus in, aptent nascetur mollis elementum natoque nibh mattis egestas class praesent. Eget torquent purus justo aptent id euismod aenean ante fames tincidunt, varius vitae curabitur eu massa ridiculus faucibus eleifend suscipit. Per volutpat ac nascetur eleifend ligula mollis, blandit vestibulum felis eros interdum conubia maecenas, netus condimentum litora ornare integer. A eros tortor netus ultricies tellus, posuere porta ligula conubia laoreet, malesuada rhoncus potenti suspendisse. 
+**– L’Etat civil**
 
-Commodo ut augue ac donec lacus nisl pharetra iaculis, venenatis mattis vivamus est pellentesque euismod tempor litora etiam, non facilisi bibendum cursus odio dui auctor. Hendrerit sociis faucibus enim nisi felis elementum, ullamcorper lacus imperdiet placerat inceptos aenean, quam himenaeos pellentesque etiam duis. Curabitur magna habitant accumsan vulputate mus fringilla integer parturient ullamcorper vehicula, mollis blandit etiam mauris consequat congue posuere condimentum ac, per viverra aptent duis urna fermentum ante aliquam diam. 
+**– La carte d’identité**
 
-Rutrum velit egestas bibendum congue sem proin placerat vitae, semper hendrerit arcu maecenas dignissim nisl ac, dictum pulvinar varius interdum tempus suscipit eros. Ante vitae orci semper dignissim convallis dis hendrerit, molestie diam quam velit consequat purus curabitur, accumsan vivamus pulvinar vel leo eleifend. Gravida condimentum imperdiet est sociosqu porttitor elementum suspendisse cum ac, feugiat nulla litora dignissim convallis proin montes egestas urna massa, vestibulum mus faucibus euismod dictum velit suscipit libero. 
+**– Le Permis de conduire**
 
-Risus pellentesque montes laoreet orci natoque erat, vivamus hac sociosqu volutpat mauris sodales, ultricies odio feugiat viverra lectus. Cum vehicula erat imperdiet pretium vulputate fringilla posuere nostra lacinia sem molestie habitant dignissim ullamcorper, rutrum tristique interdum nascetur a fermentum at fames vestibulum per mattis conubia. Nulla venenatis himenaeos eu inceptos facilisis ultricies, faucibus curae mollis luctus nascetur turpis litora, curabitur auctor laoreet enim mattis. Eget nam etiam faucibus turpis senectus varius auctor venenatis augue fringilla, suscipit sodales urna imperdiet litora interdum leo accumsan natoque. 
+**– La carte grise**
 
-Hac proin sapien enim a turpis fusce aliquam duis quis, malesuada eget laoreet ad augue tempus cubilia potenti blandit, auctor cum at hendrerit ullamcorper donec suscipit cursus. Ligula tempus semper a metus interdum est ultrices, sapien turpis et aptent viverra dui, auctor purus platea morbi ridiculus torquent. Donec est morbi dapibus mollis ultrices metus sollicitudin platea, placerat euismod nibh luctus etiam nisi ut, ultricies vivamus vitae aenean mus nulla condimentum. 
+**Pouvez-vous nous énoncer les avantages et l’impact de cette nouvelle mesure dans la vie des djiboutiens ?**
 
-Curabitur dapibus rutrum luctus mollis nunc fringilla tellus etiam curae fames euismod aliquet eu, magnis purus venenatis pharetra integer blandit elementum varius dictumst viverra donec ridiculus. Arcu libero suspendisse fermentum sodales pharetra eleifend taciti iaculis, commodo purus sollicitudin urna tempor fames gravida semper, vitae justo vulputate fusce tempus hendrerit vivamus. Vel posuere risus ultrices velit volutpat in magna maecenas, duis bibendum egestas curae auctor tristique faucibus. Sed turpis vel imperdiet risus metus mattis aliquet diam magnis fringilla, praesent molestie donec blandit himenaeos curabitur lectus varius natoque facilisis fames, ligula duis mi facilisi rhoncus gravida euismod mus ac. 
+Vous savez, l’enjeu est avant tout de répondre aux attentes des usagers djiboutiens pour ainsi simplifier l’accès aux documents administratifs et d’état civil et traiter rapidement leurs demandes. L’objectif de ce projet est de développer l’échange direct de données entre les administrations dans le cadre de ce programme de biométrisation des documents officiels. Cette simplification administrative prévoit qu’une institution ne puisse plus demander à un usager une information qu’une autre institution détient déjà tels que la délivrance de la carte d’identité, le permis de conduire ou les passeports. Ces différents projets de numérisation des documents administratifs restent complémentaires.
 
-Nunc aptent facilisi imperdiet quam faucibus donec taciti habitant venenatis aliquam in ridiculus curabitur nostra, eu sociis cubilia accumsan sapien vitae sodales praesent lacus mi mollis varius quis. Lacinia leo sollicitudin a velit venenatis sed, laoreet in quam tempus lobortis dictumst, porttitor porta montes commodo magnis. Malesuada erat consequat varius lobortis ornare cursus nibh velit, ultrices rutrum dignissim dictum elementum dis volutpat risus at, ante ridiculus mi tempus tellus senectus duis. 
+La mise en œuvre de ce programme permettra de gérer à l’avenir des démarches administratives entièrement dématérialisées dans des conditions optimales de sécurité et de confidentialité, en apportant à l’usager un service amélioré tout en réalisant des économies de fonctionnement non négligeables et conséquentes.
 
-Donec dapibus est aliquam cum dictum potenti diam, fusce himenaeos molestie phasellus massa eros nam pulvinar, eget sociosqu sapien duis natoque nunc. Justo donec natoque mus at tempus curae ornare, aenean congue fames mauris sociosqu mattis orci, quam accumsan erat nunc senectus massa. Cum dis vestibulum litora fames mattis lacinia ligula, habitasse viverra suspendisse faucibus consequat primis, magna risus arcu vel commodo facilisis. 
+Désormais tout individu djiboutien ou étranger résident à Djibouti sera identifié par un numéro unique qu’il gardera toute sa vie.
 
-Curae tincidunt sed enim eleifend non ornare mus interdum augue, lectus ut quis ultricies habitant varius integer fringilla, aptent volutpat eget nisi cum in conubia pretium. Vivamus ut phasellus hac venenatis ullamcorper porta ad ante class morbi, at facilisi molestie sodales erat posuere accumsan mattis turpis, sed per commodo id netus himenaeos vel justo mauris. Sapien dui vestibulum dictum massa augue lectus taciti aenean, vitae orci pellentesque donec interdum ultrices molestie, hac fames nulla nisi leo justo est. 
+**Quelles seront les dispositions qui seront prises par le gouvernement pour faciliter aux djiboutiens, l’obtention de ce numéro national d’identification?**
 
-Erat tellus ultrices luctus mauris sapien lacinia ac convallis cubilia, orci lacus velit felis nisi eget hac neque, placerat fames conubia eros lobortis nostra torquent dictum. Ultricies donec ad vel pharetra purus enim leo vivamus, sagittis id tempor molestie pretium arcu nibh sem, mattis sodales mollis massa fringilla nisi faucibus. Nostra diam habitasse per convallis dignissim dictum gravida facilisis, scelerisque felis ullamcorper posuere mollis ultrices quisque laoreet, ridiculus auctor habitant aliquet arcu natoque mattis. 
+Le ministère de l’intérieur a construit 4 nouveaux centres d’enrôlement dans tous les arrondissements de la capitale fonctionnels depuis 6 mois, pour faciliter les procédures d’enrôlements et leur rapprochant ces services de leurs zones d’habitations. Ainsi une personne habitant à Balbala ne sera pas obligée de se déplacer et de perdre du temps et de l’argent pour se rendre au siège central et faire une longue file d’attente pour obtenir ces documents. En outre, ces centres ont été aménagés sous forme de guichets intégrés pour permettre aux djiboutiens d’échanger tous leurs documents administratifs. En ce qui concerne nos concitoyens habitant dans les régions de l’intérieur, ils ne seront pas en reste. En effet, j’annonce qu’ils pourront également s’enrôler dans ce processus dès la fin du Ramadan et ce, à travers les préfectures et les conseils régionaux.
 
-Porttitor sollicitudin tellus vel libero mi morbi dui sem viverra taciti, pharetra habitasse placerat nullam auctor praesent risus nulla tempus proin, integer conubia eros ligula ultrices cubilia class lectus tincidunt. Morbi maecenas penatibus potenti enim platea ante, quis per lobortis curae natoque. Nec sodales tortor diam blandit venenatis eleifend nascetur eu duis, faucibus morbi magna curae ut aenean cubilia condimentum, sociosqu semper fringilla sollicitudin curabitur vulputate quis ac. Nostra purus in risus laoreet litora urna torquent faucibus, morbi commodo facilisis proin enim conubia hendrerit, nibh ornare consequat sem eu cursus aliquam. 
+Enfin, il est important de souligner que la procédure d’échange de la carte d’identité numérique est gratuite.
 
-Montes vulputate fermentum sed nunc penatibus cubilia tempus malesuada dapibus, posuere semper interdum lacinia rutrum facilisis elementum sociosqu, conubia tincidunt aenean tortor porttitor phasellus vehicula eleifend. Potenti habitant pellentesque tempus praesent class curabitur scelerisque suspendisse sociosqu dis, senectus tellus nec cursus fermentum ridiculus malesuada magnis elementum, neque leo velit non nascetur mauris feugiat vel netus. Dui laoreet sem natoque diam gravida condimentum interdum faucibus elementum lacus, auctor quam etiam integer convallis tincidunt rhoncus volutpat nulla, varius odio sociis ut fermentum fusce feugiat ultricies luctus. 
+**Quels sont vos perspectives ?**
 
-Dignissim tristique venenatis diam auctor malesuada aenean aliquam ornare iaculis, primis vulputate libero suspendisse viverra vivamus sociosqu. Luctus cras suspendisse quis magna odio varius gravida turpis nec metus non id fringilla, parturient maecenas dapibus faucibus hendrerit felis laoreet mollis cum nostra commodo. Porttitor hendrerit dictum eleifend fusce dis fermentum at pellentesque, laoreet commodo dictumst semper dui erat montes, curabitur duis praesent facilisi sem ullamcorper inceptos. 
+Grâce à ce programme novateur sur la biométrie, Djibouti fera un bon de géant en matière de processus de déconcentration. En effet, le Gouvernement envisage de construire dans les 5 régions de l’intérieur, des centres d’enrôlement à l’instar de ceux installés dans les arrondissements de la Capitale. Ces centres fonctionneront également sous forme de guichets intégrés regroupant tous les services de l’Etat afin de concrétiser le processus de déconcentrations des services de l’Etat Enfin dans l’optique de vulgariser et promouvoir cet important programme qui permettra d’accélérer la transformation numérique en cours en République de Djibouti sous l’impulsion du Chef de l’Etat et de son Gouvernement, Mon Département, en partenariat avec le Centre de Technologie et d’Innovation pour le Développement, prévoit d’organiser prochainement un évènement portant sur la thématique «Djibouti à l’ère de l’identité numérique ».
 
-Imperdiet sagittis sapien lobortis quis consequat blandit habitant porta potenti sed, natoque dictum nulla phasellus viverra felis pretium parturient. Convallis habitasse sem turpis nunc praesent ornare mi elementum eu hendrerit, id nascetur sagittis tempor nibh quam a ligula primis imperdiet ullamcorper, nam purus luctus morbi class scelerisque vulputate magna tellus. Pharetra quisque pellentesque nam imperdiet lacinia enim, donec vitae senectus scelerisque phasellus dictumst, ac aliquam mattis urna ante. 
+**Un mot pour conclure ?**
 
-Habitant praesent pulvinar scelerisque per phasellus lobortis velit, magnis odio himenaeos primis curabitur senectus, nascetur ullamcorper convallis nunc placerat nisl. Porta tellus commodo praesent ullamcorper cursus senectus tempor vivamus, penatibus eu purus ultrices posuere mi sodales, urna quisque accumsan imperdiet convallis aptent nisl. Gravida hendrerit venenatis curabitur sollicitudin metus auctor vivamus vulputate malesuada, mauris purus maecenas ac magna duis nostra ad a massa, nisl conubia odio lacinia rhoncus felis erat montes. Nostra eros proin mi venenatis enim semper ad magnis netus, in vestibulum ornare ac fusce aliquet aptent non condimentum faucibus, tempor arcu potenti blandit magna consequat luctus nam. 
+J’invite nos concitoyens ainsi que les résidents étrangers vivant à Djibouti de procéder aux changements de leurs titres respectifs dans les meilleurs délais car la biométrie sera exigée désormais dans toutes les prestations de l’Etat.
+
+**Monsieur le ministre, notre pays a lancé la mise en place de deux projets novateurs à savoir le Registre National des Personnes physiques (RNPP) et le Numéro National d’identification (NNI) qui a pour mission d’octroyer aux Djiboutiens un processus sécurisé et informatisé des données capitales d’information les concernant notamment en matière d’état civil, et autres actes administratifs importants. Pouvez-vous nous expliquer davantage en quoi cela consiste ?**
+
+Tout d’abord, je remercie les medias nationaux pour l’intérêt qu’ils portent à ce sujet d’une importance capitale pour notre pays. Mais avant de répondre à votre question, laissez-moi vous dire que les opportunités offertes par le numérique sont grandes et nous devons en tirer pleinement les profits. Elles permettent d’augmenter nos revenus et d’améliorer la qualité de vie de notre population.
+
+Enjeu de développement capital, l’identification numérique fait l’objet de la cible 9 du 16ème Objectif de Développement Durable (ODD) adopté par les Nations Unies, qui prévoit de garantir à tous une identité juridique, notamment grâce à l’enregistrement des naissances à l’horizon 2030.
+
+C’est pourquoi, il est important de se doter de systèmes d’identification numériques fiables et inclusifs qui renforcent la transparence et l’efficacité de la gouvernance ainsi que la prestation des services publics.
+
+Pour revenir à votre question, la République de Djibouti souhaite, depuis plusieurs années, se doter d’un système d’enregistrement informatisé, centralisé et biométrique des personnes physiques présentes sur tout le territoire national, qu’elles soient natives ou étrangères.
+
+De ce fait, la loi N°39/AN/19/8ème L portant création du Registre National des Personnes physiques (RNPP) et du Numéro National d’Identification (NNI) a été promulguée le 21 Janvier 2019.
+
+Ce registre national permettra également la constitution d’un fichier central et unique de données biographiques et biométriques des individus et l’attribution d’un numéro national d’identification (NNI) à toute personne de nationalité Djiboutienne et étrangère résidente sur le territoire national.
+
+Le NNI est un procédé qui permet d’identifier la personne physique au moyen d’un code unique et univoque qui intègre son rattachement à un espace géographique.
+
+Il est à noter que la mise en œuvre et la gestion de cet important programme est confié à la Direction Générale de la Population et de la Famille. Et pour réaliser cette base de données, notre pays a fait appel à Dermalog, une société allemande réputée sur le plan mondial dans ce domaine à la pointe. Egalement, l’Agence Nationale des Systèmes d’informations est chargée du suivi technique de ce projet.
+
+**Pouvez-vous nous dire quels sont les titres sécurisés impactés par le RNPP ?**
+
+Tous les documents ou titres sécurisés produits et délivrés en république de Djibouti aux djiboutiens ainsi qu’aux étrangers vivants sur le territoire national. Néanmoins il faut comprendre que le changement de ces titres se fera d’une manière progressive et de façon à donner à nos concitoyens de s’accommoder avec les nouvelles mesures et surtout s’approprier les opportunités liées au RNPP et au NNI
+
+Actuellement sont disponibles les documents tels que :
+
+**– L’Etat civil**
+
+**– La carte d’identité**
+
+**– Le Permis de conduire**
+
+**– La carte grise**
+
+**Pouvez-vous nous énoncer les avantages et l’impact de cette nouvelle mesure dans la vie des djiboutiens ?**
+
+Vous savez, l’enjeu est avant tout de répondre aux attentes des usagers djiboutiens pour ainsi simplifier l’accès aux documents administratifs et d’état civil et traiter rapidement leurs demandes. L’objectif de ce projet est de développer l’échange direct de données entre les administrations dans le cadre de ce programme de biométrisation des documents officiels. Cette simplification administrative prévoit qu’une institution ne puisse plus demander à un usager une information qu’une autre institution détient déjà tels que la délivrance de la carte d’identité, le permis de conduire ou les passeports. Ces différents projets de numérisation des documents administratifs restent complémentaires.
+
+La mise en œuvre de ce programme permettra de gérer à l’avenir des démarches administratives entièrement dématérialisées dans des conditions optimales de sécurité et de confidentialité, en apportant à l’usager un service amélioré tout en réalisant des économies de fonctionnement non négligeables et conséquentes.
+
+Désormais tout individu djiboutien ou étranger résident à Djibouti sera identifié par un numéro unique qu’il gardera toute sa vie.
+
+**Quelles seront les dispositions qui seront prises par le gouvernement pour faciliter aux djiboutiens, l’obtention de ce numéro national d’identification?**
+
+Le ministère de l’intérieur a construit 4 nouveaux centres d’enrôlement dans tous les arrondissements de la capitale fonctionnels depuis 6 mois, pour faciliter les procédures d’enrôlements et leur rapprochant ces services de leurs zones d’habitations. Ainsi une personne habitant à Balbala ne sera pas obligée de se déplacer et de perdre du temps et de l’argent pour se rendre au siège central et faire une longue file d’attente pour obtenir ces documents. En outre, ces centres ont été aménagés sous forme de guichets intégrés pour permettre aux djiboutiens d’échanger tous leurs documents administratifs. En ce qui concerne nos concitoyens habitant dans les régions de l’intérieur, ils ne seront pas en reste. En effet, j’annonce qu’ils pourront également s’enrôler dans ce processus dès la fin du Ramadan et ce, à travers les préfectures et les conseils régionaux.
+
+Enfin, il est important de souligner que la procédure d’échange de la carte d’identité numérique est gratuite.
+
+**Quels sont vos perspectives ?**
+
+Grâce à ce programme novateur sur la biométrie, Djibouti fera un bon de géant en matière de processus de déconcentration. En effet, le Gouvernement envisage de construire dans les 5 régions de l’intérieur, des centres d’enrôlement à l’instar de ceux installés dans les arrondissements de la Capitale. Ces centres fonctionneront également sous forme de guichets intégrés regroupant tous les services de l’Etat afin de concrétiser le processus de déconcentrations des services de l’Etat Enfin dans l’optique de vulgariser et promouvoir cet important programme qui permettra d’accélérer la transformation numérique en cours en République de Djibouti sous l’impulsion du Chef de l’Etat et de son Gouvernement, Mon Département, en partenariat avec le Centre de Technologie et d’Innovation pour le Développement, prévoit d’organiser prochainement un évènement portant sur la thématique «Djibouti à l’ère de l’identité numérique ».
+
+**Un mot pour conclure ?**
+
+J’invite nos concitoyens ainsi que les résidents étrangers vivant à Djibouti de procéder aux changements de leurs titres respectifs dans les meilleurs délais car la biométrie sera exigée désormais dans toutes les prestations de l’Etat.
