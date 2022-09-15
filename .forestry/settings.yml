@@ -12,7 +12,7 @@ sections:
   templates:
   - blog
 upload_dir: src/assets/images
-public_path: "/public"
+public_path: "~/assets/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
