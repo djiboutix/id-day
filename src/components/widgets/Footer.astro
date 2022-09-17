@@ -1,6 +1,6 @@
 ---
 import { Icon } from "astro-icon";
-
+import logoMi from '../../assets/images/mi.svg';
 const {} = Astro.props;
 ---
 
@@ -9,7 +9,7 @@ const {} = Astro.props;
     <div class="grid grid-cols-12 gap-4 gap-y-8 sm:gap-8 py-8 md:py-12 border-t border-gray-200 dark:border-slate-800">
       <div class="col-span-12 lg:col-span-4">
         <div class="mb-2">
-          <a class="inline-block font-bold text-xl" href="/">Identité Numérique Djibouti</a>
+          <a class="inline-block font-bold text-xl" href="/">Numéro National d’Identification</a>
         </div>
         <div class="text-sm text-gray-600">
           <a
@@ -206,10 +206,11 @@ const {} = Astro.props;
       </ul>
       <div class="text-sm text-gray-700 mr-4 dark:text-slate-400">
         <span
-          class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 float-left rounded-sm bg-[url(https://onwidget.com/favicon/favicon-32x32.png)]"
+          class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 float-left rounded-sm"
         >
+          <img src={logoMi} alt="Ministère de l'Intérieur République de Djibouti"/>
         </span>
-        <a class="text-blue-600 hover:underline dark:text-gray-200" href="#">Ministère de l'Intérieur de Djibouti</a> ·
+        <a class="text-blue-600 hover:underline dark:text-gray-200" href="https://www.egouv.dj/Administrationcentrale/MinisterePages" target="_blank" rel="noopener">Ministère de l'Intérieur République de Djibouti</a> ·
         Tous droits réservés.
       </div>
     </div>

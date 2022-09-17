@@ -1,5 +1,5 @@
 ---
-pubDate: Aug 12 2022
+pubDate: Apr 14 2022
 title: Le Chef de l’Etat obtient sa carte d’identité biométrique
 description: Le président de la république, son excellence Ismail Omar Guelleh s’est
   rendu aujourd’hui en fin de matinée au quartier général de la direction de la population
@@ -12,8 +12,8 @@ excerpt: Le président de la république, son excellence Ismail Omar Guelleh s�
 image: "~/assets/images/1404a.png"
 category: Tutorials
 tags:
-- astro
-- tailwind css
+- Ismail Omar Guelleh
+- Biométrique
 
 ---
 A son arrivée, le chef de l’Etat a été accueilli par le Premier ministre, Abdoulkader Kamil Mohamed et le ministre de l’Intérieur Saïd Nouh Hassan ainsi que le directeur général de la Population Ahmed Omar Djama et le colonel de la Police.
@@ -22,7 +22,7 @@ Le président a eu une visite guidée des installations, dont notamment les guic
 
 Cette carte d’identité contient tous les éléments qui permettent une identification irréprochable d’un citoyen de façon sécurisée.
 
-![](/images/1404b.png)
+![Ismail Omar Guelleh](/images/1404b.png)
 
 Le président s’est s’acquiert du fonctionnement et les différents processus d’émission de cette nouvelle carte d’identité biométrique.
 
@@ -32,4 +32,6 @@ Ce programme initié par la volonté du chef d'Etat pour mettre notre pays en ph
 
 Pour ce faire, le ministère de l'intérieur à travers la Direction Générale de la Population a mis en place cinq guichets intégrés destiné pour le changement de ces titres au sein de RAS-DIKA et dans les quatres arrondissements 2-3-4 et 5 dans la ville de Djibouti. Pour les régions de l'intérieure, l'enrôlement débutera à partir du 15 mai 2022.
 
-![](/images/1404c.png)
+![Ismail Omar Guelleh](/images/1404c.png)
+
+source: [RTDD](http://www.rtdd.dj/index.php/a-la-une/593-le-chef-de-letat-obtient-sa-carte-didentite-biometrique)

@@ -1,5 +1,5 @@
 ---
-pubDate: Aug 10 2022
+pubDate: Apr 18 2022
 title: Il est important de se doter de systèmes d’identification numériques fiables
   et inclusifs
 description: Le  Ministre de l’intérieur, M. Saïd Nouh Hassan a accordé hier dimanche
@@ -8,9 +8,9 @@ description: Le  Ministre de l’intérieur, M. Saïd Nouh Hassan a accordé hie
   des Personnes physiques (RNPP).
 image: "~/assets/images/le-ministre-de-linterieur-m-said-nouh-hassan-696x464.jpg"
 tags:
-- astro
-- tailwind css
-- theme
+- M. Saïd Nouh Hassan
+- Identification
+- Numériques
 excerpt: Le  Ministre de l’intérieur, M. Saïd Nouh Hassan a accordé hier dimanche
   17 Avril dans son cabinet, un entretien exclusif aux medias nationaux, dans le cadre
   du lancement du système Numérique National Identification (NNI) et du registre National
@@ -41,13 +41,13 @@ Tous les documents ou titres sécurisés produits et délivrés en république d
 
 Actuellement sont disponibles les documents tels que :
 
-**– L’Etat civil**
+- **L’Etat civil**
 
-**– La carte d’identité**
+- **La carte d’identité**
 
-**– Le Permis de conduire**
+- **Le Permis de conduire**
 
-**– La carte grise**
+- **La carte grise**
 
 **Pouvez-vous nous énoncer les avantages et l’impact de cette nouvelle mesure dans la vie des djiboutiens ?**
 
@@ -95,13 +95,13 @@ Tous les documents ou titres sécurisés produits et délivrés en république d
 
 Actuellement sont disponibles les documents tels que :
 
-**– L’Etat civil**
+- **L’Etat civil**
 
-**– La carte d’identité**
+- **La carte d’identité**
 
-**– Le Permis de conduire**
+- **Le Permis de conduire**
 
-**– La carte grise**
+- **La carte grise**
 
 **Pouvez-vous nous énoncer les avantages et l’impact de cette nouvelle mesure dans la vie des djiboutiens ?**
 
@@ -124,3 +124,5 @@ Grâce à ce programme novateur sur la biométrie, Djibouti fera un bon de géan
 **Un mot pour conclure ?**
 
 J’invite nos concitoyens ainsi que les résidents étrangers vivant à Djibouti de procéder aux changements de leurs titres respectifs dans les meilleurs délais car la biométrie sera exigée désormais dans toutes les prestations de l’Etat.
+
+source: [Lanation](https://www.lanation.dj/il-est-important-de-se-doter-de-systemes-didentification-numeriques-fiables-et-inclusifs/)

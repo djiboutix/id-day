@@ -1,10 +1,10 @@
 export const SITE = {
-  name: "Identité Numérique Djibouti",
+  name: "Numéro National d’Identification",
 
-  origin: "https://id-djibouti.netlify.app",
+  origin: "https://djibidentite.org",
   basePathname: "/",
 
-  title: "ID — Identité Numérique Djibouti",
+  title: "Djibouti — Numéro National d’Identification",
   description: "Djibouti vient de lancer officiellement la carte d'identité numérique qui sera désormais obligatoire pour tous les Djiboutiens.",
 
   googleAnalyticsId: false, // or "G-XXXXXXXXXX",
